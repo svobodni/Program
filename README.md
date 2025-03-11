@@ -1,5 +1,5 @@
 ---
-schvaleno: 2025-02-09
+schvaleno: 2025-03-09
 ---
 
 ## I. Pojetí státu
