@@ -190,11 +190,31 @@ Stát není od toho, aby podnikal. Svobodní lidé sami vědí, co mají na trhu
 
 ### 2. Energetika
 
-Do České republiky se dováží řada energetických zdrojů (ropa a plyn) ze zahraničí. Zdroje těchto surovin jsou naštěstí diverzifikované, přesto je potřeba nezhoršovat energetickou bezpečnost českého hospodářství. Stát nesmí bránit výstavbě dalších bloků jaderných elektráren[^31].
+#### Primární zdroje energie 
+Česká republika je závislá na dovozu všech primárních zdrojů energie (paliv) kromě hnědého uhlí. Je třeba diverzifikovat dovoz plynu a ropy posílením produktovodů severojižním směrem, hlavně z Polska. Pro jaderné elektrárny musíme dbát, aby i nadále bylo možné kupovat palivo alespoň ze dvou zemí kromě Ruska.
 
-Stát na základě směrnic EU podporuje neefektivní využívání zdrojů. V České republice se tak povinně na základě pokřivených cen a dotací vyrábí drahá elektřina ze solárních panelů a větrníků, přestože technologie a přírodní podmínky neumožňují efektivní využití těchto zdrojů. Důsledkem je růst cen elektřiny pro domácnosti i firmy. Svobodní jsou pro zrušení minimálních výkupních cen a povinného odkupu elektřiny z tzv. alternativních zdrojů. Svobodní jsou také pro zrušení povinnosti přimíchávat biopaliva do nafty a benzínu. Tato politika zdražuje paliva i potraviny.
+#### Elektrická energie 
+Pro dnešní civilizaci je naprosto nejdůležitější elektrická energie, se kterou stojí a padá. Bezpečná, spolehlivá a k přírodě šetrná dodávka elektřiny je nyní ohrožena politicky. Usilovné zvyšování instalovaného (špičkového) výkonu fotovoltaických a větrných elektráren a jeho státem vynucované a dotované maximální využití v elektrizační soustavě je v přímém protikladu s principem jejího fungování. Tím principem je výkonová rovnováha spotřeby a dodávky v každém okamžiku. Elektrizační soustava k zajištění této rovnováhy při neustále se měnící spotřebě využívá služby výkonové rovnováhy, zejména řízení výkonu elektráren. Ale ideologický imperativ dekarbonizace tlačí na jedné straně nárůst spotřeby elektřiny a na druhé straně zánik řiditelných elektráren na uhlí.
 
-Jednotlivé druhy energií spolu musí soutěžit za rovných podmínek. Nesmí to být politici nebo úředníci, kdo určuje, který energetický zdroj je perspektivní. Ekologické daně nemají být uvalovány selektivně. Svobodní jsou pro zrušení daní z plynu, elektřiny a uhlí.
+Domnělá užitečnost prudce rostoucí výroby elektrické energie ze světla a větru s povinným odběrem a zaručenou cenou vždy, když to umožňují okamžité přírodní podmínky, je fatální omyl. Takový výkon nikdy není v rovnováze s okamžitou spotřebou - je to problém pro funkci elektrizační soustavy. Chybí dostupná technologie pro celoroční výkonovou rovnováhu soustavy závislé na elektřině získané z fotovoltaických a větrných elektráren. Přání náhrady služeb výkonové rovnováhy poskytovaných dnes elektrárnami na fosilní paliva a moderními jadernými elektrárnami spočívá v bateriích (akumulátorech) a v “zeleném” vodíku. Jenže zatímco tyto technologie jsou zářnou nadějí budoucnosti, likvidace uhelných elektráren je temně zelenou revolucí přítomnosti.   
+
+Demolice uhelných elektráren byly zdánlivě neškodné díky velké výkonové rezervě z konce minulého století po liberalizaci energetiky na Západě a zániku průmyslu na Východě. Teprve v roce 2021 přišel cenový šok a po jeho zklidnění je o 66% vyšší regulovaná složka ceny elektřiny, protože zachování výkonové rovnováhy v elektrizační soustavě se už prodražilo. Svobodní bijí na poplach před ztrátou spolehlivé elektrizační soustavy České republiky! 
+
+Naprosto mylná je domněnka, že stačí snížit export a neuškodí zavření uhelných elektráren Chvaletice a Počerady hrozící v roce 2025. Musíme zabránit dalším ztrátám uhelných elektráren, dokud za ně nemáme náhradu se stejnou schopností služeb výkonové rovnováhy. Nejrychlejší náhradou za uhelné elektrárny jsou (paro)plynové, které jsou díky požadavku budoucího přepnutí na vodík pro investory nerealistické. Přitom snížení “uhlíkové stopy” je stěží poloviční. 
+
+Rozhodující příčinou zavření zbývajících modernizovaných uhelných elektráren je ztrátový provoz kvůli emisním povolenkám, jejichž “tržní” cena je násobkem ceny výroby elektřiny. Paradoxně však bez služeb výkonové rovnováhy z uhlí bude nepoužitelná i energie ze světla, větru. 
+
+Elektřina je pro národní hospodářství jako krev pro lidské tělo. Jen je ještě kritičtější - dokud nemáme elektrické konzervy. Elektrická suverenita je životním zájmem ČR. 
+
+Svobodní chtějí neodkladnou náhradu jaderných bloků Dukovan a dobudování bloků v Temelíně. 
+
+Stát nesmí podkopávat spolehlivost elektrizační soustavy. Nesmíme připustit zrušení dalších uhelných elektráren bez náhrady jejich služeb výkonové rovnováhy. 
+
+Stát musí zaručit předvídatelné podmínky pro investice do nových elektráren schopných služeb výkonové rovnováhy. Musí umožnit návratnost investic, které jsou kritické pro dnešní civilizaci (např. jaderných elektráren). 
+
+Stát nesmí pokračovat v podpoře zdrojů narušujících výkonovou rovnováhu. Nesmí penalizovat průmysl a domácnosti ČR vysokými cenami elektřiny za německou Energiewende. 
+
+Svobodní usilují o zdravou energetiku ČR rozvíjející se organicky, nikoliv rozbořením fungujícího systému ve jménu možných budoucích technologických vymožeností. 
 
 ### 3. Export a investice
 
